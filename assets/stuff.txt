@@ -1,0 +1,9 @@
+https://hub.packtpub.com/fingerprint-detection-using-opencv/
+https://github.com/kjanko/python-fingerprint-recognition/blob/master/app.py
+opencv
+java
+image thresholding
+skeletization
+Zhang-Suen line thinning approach
+harris corners
+minutiae points
